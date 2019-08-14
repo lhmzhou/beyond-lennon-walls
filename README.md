@@ -20,6 +20,7 @@ Donate to these non-profit, independent news organizations so they can continue 
 - [Inmedia 香港獨立媒體網](http://www.inmediahk.net/donate) 
 - [Stand News 立場新聞](https://mystand.thestandnews.com/) 
 - [Factwire](https://www.factwire.org/backus/) (PayPal: factwire)
+- [Hong Kong Citizen News 眾新聞](https://www.hkcnews.com/aboutus/)
 - [Hong Kong Free Press](https://www.hongkongfp.com/support-hkfp/)
 
 Donate to these civil society research organizations:
