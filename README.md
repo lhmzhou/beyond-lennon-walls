@@ -6,7 +6,7 @@ Last updated 15 August 2019. Based on anonymous submissions. Maintained by Jason
 
 ---
 
-This document in other languages: [繁體中文](README-繁體中文.md), [Português](README-Português.md)
+This document in other languages: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md)
 
 ---
 
