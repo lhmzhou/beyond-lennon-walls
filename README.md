@@ -14,6 +14,7 @@ Donate to groups that are supporting protestors on the ground:
 Donate to groups supporting journalists on the ground:
 
 - [HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)
+- [Radical HK 基進報導](https://radicalhk.com/about/donation/) (on top of being a news organization, they provide sign language interpretation at many events)
 
 Donate to these non-profit, independent news organizations so they can continue to provide coverage of Hong Kong:
 
@@ -38,10 +39,6 @@ If you’re part of a community group, association or organization, publish a st
 
 Hold discussions within your diaspora communities, with folks who are on the fence or self-identified centrists. But approach with caution if folks are already staunchly against the protests.
 
-## 💳 Vote with your money
-
-Be thoughtful about who and what your money supports. Does it go to an ecosystem that does not hurt the movement? Think carefully before supporting companies/products/individuals that are support the China government.
-
 ## 🇺🇸 For US residents/citizens
 
 Call your representatives:
@@ -49,7 +46,10 @@ Call your representatives:
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to support the call to suspend future sales of munitions and crowd control equipment to the Hong Kong police.
 - Ask them to support passage of the [Hong Kong Human Rights and Democracy Act](https://www.rubio.senate.gov/public/_cache/files/7030f464-ac78-4af9-a5d1-55151ca3b6f8/C89816EECDFDE0D75FB8EC98DDEC4803.mdm19812.pdf) (H.R. 3289) (S. 1838).
-- [Action Network](https://actionnetwork.org/letters/co-sponsor-hong-kong-human-rights-and-democracy-act-of-2019) will automatically fill out your representatives based on your address and provide a letter that can be edited that supports the asks your representatives to co-sponsor the Hong Kong Human Rights and Democracy Act of 2019
+
+Alternately:
+
+- Use this [Action Network](https://actionnetwork.org/letters/co-sponsor-hong-kong-human-rights-and-democracy-act-of-2019) link to automatically find your representatives based on your address and provide an editable letter that asks them to co-sponsor the Hong Kong Human Rights and Democracy Act of 2019.
 
 Reference: [Pelosi Statement in Support of Hong Kong Protestors](https://www.speaker.gov/newsroom/8519-3/)
 
@@ -59,13 +59,16 @@ Contact your current MP (and MP candidates):
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to introduce a motion in Parliament in support of the Hong Kong protests.
-- Sign this [petition](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268&fbclid=IwAR2nY8iy_x_D-q2MP9MLFFI9oUInn6sY_8pAYJzg6jaIcFXe8M0oowr_B_c)
+
+Sign these petitions:
+
+- [e-2268 (Hong Kong) at the House of Commons, sponsored by MP Michael Chong](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268)
 
 ## 🇬🇧For UK residents/citizens
 
-Contact your politicians:
+Contact your representatives:
 
-- [WriteToThem](https://www.writetothem.com/) helps you look up the politician you should contact
+- [WriteToThem](https://www.writetothem.com/) helps you look up your representatives.
 
 ## 🇪🇺 For EU residents/citizens
 
@@ -83,8 +86,6 @@ Some tips on spreading the word on social media:
 - Think about your audience: Do your friends really want to read seven heavily-captioned posts, or do they prefer a single post summary?
 - Engage carefully with friends & family: Sometimes it's best to agree to disagree and move on for now.
 - Engage carefully (or not at all) with the trolls: Do you really need to win that argument on the internet with someone you don't know?
-- This [Telegram channel](https://t.me/s/hkstandstrong_promo_int) has posters and information in multiple languages
-- Create content of verified information that is easily shareable and digestable to help get the word out to people. (example: games like this https://codepen.io/cassie-codes/full/MNrPza)
 
 ---
 
