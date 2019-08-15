@@ -4,6 +4,12 @@ Setting up a Lennon Wall or joining in a rally may be the most visible way to he
 
 Last updated 15 August 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
+---
+
+This document in other languages: [繁體中文](README-繁體中文.md), [Português](README-Português.md)
+
+---
+
 ## 💰 Donate
 
 Donate to groups that are supporting protestors on the ground:
