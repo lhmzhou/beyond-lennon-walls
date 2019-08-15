@@ -28,7 +28,7 @@ Donate to these civil society research organizations:
 - [Civil Rights Observer 民權觀察](https://www.hkcro.org/fundraising/)
 - [Hong Kong Public Opinion Research Institute 香港民意研究所](https://www.pori.hk/donation) 
 
-Pitch in for supplies going to the frontlines from this online store (but keep in mind they're currently backlogged on logistics):
+Pitch in for supplies that protect people during police operations from this online store (but keep in mind they're currently backlogged on logistics):
 
 - [HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/)
 
