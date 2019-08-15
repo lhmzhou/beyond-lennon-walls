@@ -2,7 +2,7 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 13 August 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 15 August 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ## 💰 Donate
 
