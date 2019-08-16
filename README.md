@@ -2,11 +2,11 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 15 August 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 16 August 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
-This document in other languages: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md)
+This document in other languages: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md)
 
 ---
 
@@ -70,11 +70,15 @@ Sign these petitions:
 
 - [e-2268 (Hong Kong) at the House of Commons, sponsored by MP Michael Chong](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268)
 
-## 🇬🇧For UK residents/citizens
+## 🇬🇧 For UK residents/citizens
 
-Contact your representatives:
+Contact your representatives ([WriteToThem](https://www.writetothem.com/) helps you look who yours is):
 
-- [WriteToThem](https://www.writetothem.com/) helps you look up your representatives.
+- Tell them you are very concerned about the situation in Hong Kong.
+- Tell them that you support [the recent decision to stop selling crowd-control equipment and tear gas to Hong Kong](https://www.theguardian.com/world/2019/jun/25/uk-halts-sales-of-teargas-to-hong-kong-amid-police-brutality-claims).
+- Ask them to uphold the 1984 [Sino–British Joint Declaration](https://en.wikipedia.org/wiki/Sino-British_Joint_Declaration)
+
+Alternately, use [Stand with HK](https://petition.standwithhk.org/) to send an pre-written email to your MP that asks them to uphold the 1984 Sino-British Joint Declaration.
 
 ## 🇪🇺 For EU residents/citizens
 
