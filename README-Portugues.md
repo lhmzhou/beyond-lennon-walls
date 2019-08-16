@@ -2,7 +2,7 @@
 
 Criar uma [Parede Lennon](https://www.publico.pt/2019/08/12/p3/fotogaleria/hong-kong-arte-postit-revolta-antisistema-396572) ou organizar uma manifestação são as formas mais visíveis de apoiar os manifestantes de Hong Kong, mas não necessariamente as melhores. Abaixo estão algumas ideias daquilo que pode fazer para apoiar os manifestantes à distância.
 
-Última actualização: 13 de Agosto de 2019.
+Última actualização: 15 de Agosto de 2019.
 
 ## 💰 Doar
 
@@ -14,6 +14,7 @@ Doe a grupos que estão a apoiar os manifestantes no terreno:
 Doe a grupos apoiando jornalistas no terreno:
 
 - [HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)
+- [Radical HK 基進報導](https://radicalhk.com/about/donation/) (além de serem uma organização noticiosa, também oferecem interpretação em linguagem gestual)
 
 Doa a estas organizações de notícias sem fins lucrativos para que possam continuar a fornecer informação acerca do que está a acontecer em Hong Kong:
 
