@@ -78,7 +78,7 @@ Contact your representatives:
 
 ## 🇪🇺 For EU residents/citizens
 
-Contact your representatives:
+[Contact your representatives](http://www.europarl.europa.eu/meps/en/search/advanced):
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Urge them to pass Joint Motion for a Resolution on the situation in Hong Kong (RC-9-2019-0013_EN)

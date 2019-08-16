@@ -16,7 +16,7 @@ Doe a grupos apoiando jornalistas no terreno:
 - [HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)
 - [Radical HK 基進報導](https://radicalhk.com/about/donation/) (além de serem uma organização noticiosa, também oferecem interpretação em linguagem gestual)
 
-Doa a estas organizações de notícias sem fins lucrativos para que possam continuar a fornecer informação acerca do que está a acontecer em Hong Kong:
+Doe a estas organizações de notícias sem fins lucrativos para que possam continuar a fornecer informação acerca do que está a acontecer em Hong Kong:
 
 - [Inmedia 香港獨立媒體網](http://www.inmediahk.net/donate) 
 - [Stand News 立場新聞](https://mystand.thestandnews.com/) 
@@ -41,7 +41,7 @@ Organize debates informativos e sessões de esclarecimento.
 
 ## 🇪🇺 Cidadãos e residentes europeus
 
-Contacte os seus representantes:
+[Contacte os seus representantes](http://www.europarl.europa.eu/meps/en/search/advanced):
 
 - Manifeste a sua preocupação com a situação em Hong Kong.
 Apele para que aprovem a Proposta de Resolução Comum (RC-9-2019-0013_EN)
