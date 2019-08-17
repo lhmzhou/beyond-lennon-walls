@@ -99,6 +99,6 @@ Algunos consejos para divulgar el mensaje en las redes sociales:
 
 ---
 
-Este documento está licenciado con licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Este documento está bajo licencia [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Envíanos tus sugerencias con otras formas de ayudar por [email](mailto:hi@hongkonggong.com) o creando un pull request para este proyecto en GitHub.
