@@ -4,6 +4,12 @@ Criar uma [Parede Lennon](https://www.publico.pt/2019/08/12/p3/fotogaleria/hong-
 
 Última actualização: 15 de Agosto de 2019.
 
+---
+
+[English](README.md), [繁體中文](README-繁體中文.md), [Italiano](README-Italiano.md), [Español](README-Español.md)
+
+---
+
 ## 💰 Doar
 
 Doe a grupos que estão a apoiar os manifestantes no terreno:
