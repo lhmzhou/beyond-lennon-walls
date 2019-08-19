@@ -45,7 +45,7 @@ Falls Ihr Teil einer Bürgergemeinschaft, eines Vereins, oder einer Organisation
 
 Organisiert Diskussionen innerhalb eurer Diaspora-Gemeinden, gemeinsam mit Menschen, die sich noch keine Meinung gebildet haben oder sich als ZentristInnen identifizieren. Seid jedoch vorsichtig mit Menschen oder Gruppierungen, die stramm gegen die Proteste eingestellt sind.
 
-## 🇺🇸 Für BürgerInnen oder AnwohnerInnen der EU:
+## 🇪🇺 Für BürgerInnen oder AnwohnerInnen der EU:
 
 Ruft eure RepräsentantInnen an:
 
@@ -53,7 +53,7 @@ Ruft eure RepräsentantInnen an:
 - Bittet sie, den Ruf nach Aussetzung von Geschäften mit Munition und Ausrüstung an die Polizeikräfte in Hongkong, welche für den unfriedlichen Ordnungsdienst ("crowd control") verwendet werden, zu unterstützen. 
 - Bittet sie, folgende [Entschließung des Europäischen Parlaments zur Lage in Hongkong (RC-9-2019-0013_DE)](https://www.europarl.europa.eu/doceo/document/RC-9-2019-0013_DE.html) zu unterstützen.
 
-## 🇺🇸 Für BürgerInnen oder AnwohnerInnen der Schweiz:
+## 🇨🇭 Für BürgerInnen oder AnwohnerInnen der Schweiz:
 
 Kontaktiert das [EDA](https://www.eda.admin.ch/eda/de/home/das-eda/kontaktformular.html) oder [Ignazio Cassis](https://twitter.com/ignaziocassis), oder eure National- und StänderätInnen:
 
