@@ -4,6 +4,12 @@
 
 以下列表來自匿名的建議，最近一次更新時間是2019年8月15日。
 
+---
+
+[English](README.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md)
+
+---
+
 ## 💰 捐款
 
 向支援香港示威者的團體捐款：
