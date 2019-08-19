@@ -6,7 +6,7 @@
 
 ---
 
-[English](README.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md)
+[English](README.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md)
 
 ---
 

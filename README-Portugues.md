@@ -6,7 +6,7 @@ Criar uma [Parede Lennon](https://www.publico.pt/2019/08/12/p3/fotogaleria/hong-
 
 ---
 
-[English](README.md), [繁體中文](README-繁體中文.md), [Italiano](README-Italiano.md), [Español](README-Español.md)
+[English](README.md), [繁體中文](README-繁體中文.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md)
 
 ---
 
