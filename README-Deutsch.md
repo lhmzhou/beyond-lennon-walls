@@ -6,7 +6,7 @@ Letztes update am 18. August 2019. Basierend auf anonymen Beiträgen. Betreut du
 
 ---
 
-Diese Datei in weiteren Sprachen: [English](Readme.md) [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md)
+Diese Datei in weiteren Sprachen: [English](Readme.md) [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Français](README-Francais.md)
 
 ---
 
