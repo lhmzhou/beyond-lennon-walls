@@ -2,7 +2,7 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 16 August 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 21 August 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
@@ -47,13 +47,11 @@ Hold discussions within your diaspora communities, with folks who are on the fen
 
 ## 🇺🇸 For US residents/citizens
 
-Call your representatives:
+Call your representatives (find their number on [callmycongress.com](https://www.callmycongress.com/)):
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to support the call to suspend future sales of munitions and crowd control equipment to the Hong Kong police.
 - Ask them to support passage of the [Hong Kong Human Rights and Democracy Act](https://www.rubio.senate.gov/public/_cache/files/7030f464-ac78-4af9-a5d1-55151ca3b6f8/C89816EECDFDE0D75FB8EC98DDEC4803.mdm19812.pdf) (H.R. 3289) (S. 1838).
-
-Find your representatives' phone numbers at [callmycongress.com](https://www.callmycongress.com/).
 
 Alternately:
 
