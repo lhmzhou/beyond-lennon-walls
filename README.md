@@ -53,6 +53,8 @@ Call your representatives:
 - Ask them to support the call to suspend future sales of munitions and crowd control equipment to the Hong Kong police.
 - Ask them to support passage of the [Hong Kong Human Rights and Democracy Act](https://www.rubio.senate.gov/public/_cache/files/7030f464-ac78-4af9-a5d1-55151ca3b6f8/C89816EECDFDE0D75FB8EC98DDEC4803.mdm19812.pdf) (H.R. 3289) (S. 1838).
 
+Find your representatives' phone numbers at [callmycongress.com](https://www.callmycongress.com/).
+
 Alternately:
 
 - Use this [Action Network](https://actionnetwork.org/letters/co-sponsor-hong-kong-human-rights-and-democracy-act-of-2019) link to automatically find your representatives based on your address and provide an editable letter that asks them to co-sponsor the Hong Kong Human Rights and Democracy Act of 2019.
