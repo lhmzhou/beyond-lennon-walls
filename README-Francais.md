@@ -6,7 +6,7 @@ Dernière mise à jour le 15 août 2019.
 
 ---
 
-Ce document est également disponible dans d'autres langues: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Русский](README-Русский.md)
+Ce document est également disponible dans d'autres langues: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Русский](README-Russian.md)
 
 ---
 

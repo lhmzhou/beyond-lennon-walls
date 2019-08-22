@@ -6,7 +6,7 @@ Montar un [Muro de Lennon](https://www.elmundo.es/internacional/2019/07/14/5d2b1
 
 ---
 
-Este documento en otros idiomas: [English](README.md), [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md), [Русский](README-Русский.md)
+Este documento en otros idiomas: [English](README.md), [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md), [Русский](README-Russian.md)
 
 ---
 
