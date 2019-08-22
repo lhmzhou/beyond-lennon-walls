@@ -50,7 +50,7 @@ Organize debates informativos e sessões de esclarecimento.
 [Contacte os seus representantes](http://www.europarl.europa.eu/meps/en/search/advanced):
 
 - Manifeste a sua preocupação com a situação em Hong Kong.
-Apele para que aprovem a Proposta de Resolução Comum (RC-9-2019-0013_EN)
+- Apele para que aprovem a Proposta de Resolução Comum (RC-9-2019-0013_EN)
 
 ## 🤳🏼 Passe a palavra nas redes sociais
 
