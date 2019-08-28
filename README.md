@@ -61,7 +61,7 @@ Reference: [Pelosi Statement in Support of Hong Kong Protestors](https://www.spe
 
 ## 🇨🇦 For Canadian residents/citizens
 
-Contact your current MP (and MP candidates):
+Contact your current MP (and MP candidates)(find your mp on [www.ourcommons.ca](https://www.ourcommons.ca/Parliamentarians/en/constituencies/FindMP)):
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to introduce a motion in Parliament in support of the Hong Kong protests.
