@@ -2,12 +2,11 @@
 
 香港の抗議活動への支援を示すには、誰もが意見を張り出せるレノン・ウォールを作ったり(訳注：香港各地での抗議行動のひとつ。参考：[香港のレノン・ウォール：Bloomberg](https://headlines.yahoo.co.jp/hl?a=20190722-00000001-bloom_v-int))、抗議集会に参加することが一番の方法でしょう。しかし、それができなくても構いません。以下に、海外など遠く離れていても香港の抗議活動を支援する方法を示します。
 
-最終更新日 2019年8月21日。匿名の投稿を元に作成。Jason Li and Lokman Tsui によってメンテナンスされています。
+最終更新日 2019年8月21日。匿名の投稿を元に作成。
 
 ---
 
 他の言語で読む: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md), [Русский](README-Russian.md)
-
 
 ---
 

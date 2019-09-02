@@ -2,11 +2,11 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 21 August 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 2 September 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
-This document in other languages: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md), [Русский](README-Russian.md), [日本語](README-Japanese.md), [한국어](README-한국어.md)]
+This document in other languages: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md), [Русский](README-Russian.md), [日本語](README-Japanese.md), [한국어](README-한국어.md)
 
 ---
 
@@ -86,6 +86,30 @@ Alternately, use [Stand with HK](https://petition.standwithhk.org/) to send an p
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Urge them to pass Joint Motion for a Resolution on the situation in Hong Kong (RC-9-2019-0013_EN)
+
+## 🇨🇭 For Swiss residents/citizens
+
+Contact the [EDA](https://www.eda.admin.ch/eda/de/home/das-eda/kontaktformular.html) or [Ignazio Cassius](https://twitter.com/ignaziocassis), or your representatives in the National Council or Council of States:
+
+- Tell them you are very concerned about the situation in Hong Kong.
+- Urge them to make a statement in support of the protesters in Hong Kong and against the excessive police violence there.
+
+## 🇯🇵 For Japanese residents/citizens
+
+Sign these petitions:
+
+- [Call on Japanese parliamentarians to start discussions on a Japanese version of the Hong Kong Human Rights and Democracy Bill](https://www.change.org/p/%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1-%E9%A6%99%E6%B8%AF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%94%BF%E5%BA%9C%E5%BD%93%E5%B1%80%E3%81%AB%E3%82%88%E3%82%8B%E5%BC%B7%E6%A8%A9%E7%9A%84%E3%81%AA%E5%8B%95%E3%81%8D%E3%82%92%E3%81%91%E3%82%93%E5%88%B6%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81-%E6%97%A5%E6%9C%AC%E7%89%88-%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%A8%A9-%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9%E6%B3%95%E6%A1%88-%E3%81%AE%E8%AD%B0%E8%AB%96%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9B%BD%E4%BC%9A%E8%AD%B0%E5%93%A1%E3%81%AB%E6%B1%82%E3%82%81%E3%81%BE%E3%81%99?utm_content=cl_sharecopy_17285742_ja-JP%3Av1&recruiter=34591470&recruited_by_id=e96e94b0-151b-0130-6dd2-3c764e049c4f&utm_source=share_petition&utm_medium=copylink&utm_campaign=psf_combo_share_initial).
+
+## 🇰🇷 For South Korean residents/citizens
+
+Contact members of the parliament to express concern about and solidarity with the protesters of Hong Kong:
+
+- [Democratic Party](http://theminjoo.kr/peopleTypeC.do?subId=20)
+- [Liberty Korea Party](http://www.libertykoreaparty.kr/web/intro/people/listPartisanView.do)
+- [Bareunmirae Party](http://bareunmirae.kr/kr/company/people.php)
+- [Justice Party](https://www.justice21.org/newhome/about/info04.html?p_kind=2)
+
+[Post a petition to the Blue House](https://www1.president.go.kr/petitions).
 
 ## 🤳🏼 Spread the word on social media
 
