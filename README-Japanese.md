@@ -54,8 +54,6 @@
 
 - [Change.org 香港における政府当局による強権的な動きをけん制するため、日本版『香港人権・民主主義法案』の議論を開始することを日本の国会議員に求めます！](http://chng.it/RfKCmdgMTX)
 
-※ここまで翻訳完了
-
 ## 🇺🇸 For US residents/citizens
 
 Call your representatives (find their number on [callmycongress.com](https://www.callmycongress.com/)):
@@ -103,7 +101,6 @@ Alternately, use [Stand with HK](https://petition.standwithhk.org/) to send an p
 ソーシャルメディアで拡散する際のヒント:
 
 - 信憑性の確認ができない情報は投稿しない。
-- 十分に信頼できない情報は投稿しない。
 - 流血や暴力が含まれるイメージを投稿する際は、あらかじめ警告メッセージを投稿する。
 - 見る人のことを考えましょう：あなたの友人が見ることを考えてみてください。注意書きが7個も連なる投稿よりも、よくまとまった一つの投稿の方がわかりやすいはずです。
 - 友人や家族を大切に：時と場合によっては、親しい人であっても同意してもらえない事実を受け入れ、次に進む判断をする方が良いことがあります。
