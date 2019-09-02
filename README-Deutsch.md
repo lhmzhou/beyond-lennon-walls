@@ -2,7 +2,7 @@
 
 Eine "Lennon Wall" zu starten oder an einer Demo teilzunehmen mag vielleicht der sichtbarste Weg zu sein, die Proteste in Hongkong zu unterstützen, aber nicht unbedingt der beste. Unten gibt es weitere Ideen, wie man die Proteste aus dem Ausland unterstützen kann.
 
-Letztes update am 18. August 2019. Basierend auf anonymen Beiträgen. Betreut durch Jason Li und Lokman Tsui.
+Letztes update am 18. August 2019. Basierend auf anonymen Beiträgen.
 
 ---
 

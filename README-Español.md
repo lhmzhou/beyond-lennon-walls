@@ -2,7 +2,7 @@
 
 Montar un [Muro de Lennon](https://www.elmundo.es/internacional/2019/07/14/5d2b199321efa0ac218b46c6.html) o unirte a una marcha pueden ser las formas con más visibilidad para apoyar a las protestas en Hong Kong desde el extranjero, pero no tienen que ser necesariamente las mejores. Abajo hay otras ideas para apoyar a la protesta desde la distancia.
 
-Última actualización el 16 de agosto de 2019. Basado en aportaciones anónimas. Versión original mantenida por Jason Li y Lokman Tsui. Traducción al español por Fidel Ramos.
+Última actualización el 16 de agosto de 2019. Basado en aportaciones anónimas. Traducción al español por Fidel Ramos.
 
 ---
 
