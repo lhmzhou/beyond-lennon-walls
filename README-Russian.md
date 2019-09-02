@@ -6,7 +6,7 @@
 
 ---
 
-Этот документ доступен на других языках: [English](README.md) [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md)
+Этот документ доступен на других языках: [English](README.md) [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md), [日本語](README-Japanese.md)
 
 ---
 
