@@ -1,16 +1,6 @@
-※以下の文章を日本語に翻訳してください。
+# レノン・ウォールに書き込めないあなたへ：遠くから香港の抗議活動を支援する方法
 
-上部にある鉛筆ボタンを使うことでこの文章の修正が可能です。
-翻訳する場合、原文の下に日本語訳を追記してください。
-レビュアーの人は、翻訳内容を確認／修正した後、原文を削除してください。
-
-修正の提案がある場合、コメント機能を使ってください。不明点を確認したい、提案や相談をしたい、という方は、[Code for Japan のSlack](https://cfjslackin.herokuapp.com/)に加入いただき、[#standwith-hk](https://cfj.slack.com/archives/CKJUBC89E/p1567352188003200)チャンネルにご参加ください。
-
-大元のファイルは[こちら](https://github.com/codeforjapan/beyond-lennon-walls/blob/jp-translation/README.md)にあります。
-
-# レノン・ウォールを越えて: 遠隔で香港の抗議行動を支援する方法
-
-レノン・ウォールを作ったり(訳注：香港各地での抗議行動のひとつ。参考：[香港のレノン・ウォール：Bloomberg](https://headlines.yahoo.co.jp/hl?a=20190722-00000001-bloom_v-int))、集会に参加することが、海外から香港の抗議者行動を支援する最も視覚化された方法かもしれません。しかし、常に最良の手段をとる必要はありません。下記のリストは、遠隔からでも抗議行動を支援できるいくつかのアイデアです。
+香港の抗議活動への支援を示すには、誰もが意見を張り出せるレノン・ウォールを作ったり(訳注：香港各地での抗議行動のひとつ。参考：[香港のレノン・ウォール：Bloomberg](https://headlines.yahoo.co.jp/hl?a=20190722-00000001-bloom_v-int))、抗議集会に参加することが一番の方法でしょう。しかし、それができなくても構いません。以下に、海外など遠く離れていても香港の抗議活動を支援する方法を示します。
 
 最終更新日 2019年8月21日。匿名の投稿を元に作成。Jason Li and Lokman Tsui によってメンテナンスされています。
 
@@ -23,17 +13,17 @@
 
 ## 💰 寄付
 
-現地での抗議行動を支援する団体への寄付:
+支援団体への寄付(現地での活動を支援できます):
 
 - [612 Humanitarian Relief Fund (612人道支援基金)](https://www.facebook.com/612Fund/) (PayPal: 612fund@atd.hk)
 - [Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/posts/2042900022663786) (Paypal: hkworkxshop@gmail.com)
 
-現地で活動するジャーナリストを支援する団体への寄付:
+ジャーナリスト支援団体への寄付(現地のジャーナリストを支援できます):
 
 - [HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)
 - [Radical HK 基進報導](https://radicalhk.com/about/donation/) (ニュース組織であることに加え、多くのイベントで手話通訳を提供しています)
 
-香港のニュースを継続的に伝えるための、非営利の独立系ニュース団体への寄付:
+非営利および独立系ニュース団体への寄付（ニュースを継続的に発信する支援ができます）:
 
 - [Inmedia 香港獨立媒體網](http://www.inmediahk.net/donate) 
 - [Stand News 立場新聞](https://mystand.thestandnews.com/) 
@@ -46,24 +36,25 @@
 - [Civil Rights Observer 民權觀察](https://www.hkcro.org/fundraising/)
 - [Hong Kong Public Opinion Research Institute 香港民意研究所](https://www.pori.hk/donation) 
 
-※ここまで翻訳完了
 
-Pitch in for supplies that protect people during police operations from this online store (but keep in mind they're currently backlogged on logistics):
+市民を防護するための装備をオンラインストアから支援する（警察の排除行動の際に、危険から身を守る装備です。現在は在庫があるため、後方支援に充てられております。ご承知おきください。）:
 
 - [HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/)
 
-## 🧓🏻 Organize within your community
 
-If you’re part of a community group, association or organization, publish a statement in support of the protestors. If possible, band together with other groups to sign a joint statement.
+## 🧓🏻 あなたのコミュニティで声を上げる
 
-Hold discussions within your diaspora communities, with folks who are on the fence or self-identified centrists. But approach with caution if folks are already staunchly against the protests.
+コミュニティ、団体、組織などに所属している方は、抗議活動を支援する声明を発表してください。できれば、他のグループと共同で声明を出してください。
+
+コミュニティの中で、まだ自分の立場を決めきれていない中立的な人々、どちらかに味方することを回避する中道的な人々と話し合うのもいいでしょう。けれども、すでに明らかに香港の抗議活動に対して反対意見を持っている人々にアプローチするときは慎重になってください。
 
 ## JP 日本在住の方
 
-下記のキャンペーンに署名する
+以下のChange.orgキャンペーンに参加して、あなたの賛同を示してください。
 
 - [Change.org 香港における政府当局による強権的な動きをけん制するため、日本版『香港人権・民主主義法案』の議論を開始することを日本の国会議員に求めます！](http://chng.it/RfKCmdgMTX)
 
+※ここまで翻訳完了
 
 ## 🇺🇸 For US residents/citizens
 
@@ -107,18 +98,19 @@ Alternately, use [Stand with HK](https://petition.standwithhk.org/) to send an p
 - Tell them you are very concerned about the situation in Hong Kong.
 - Urge them to pass Joint Motion for a Resolution on the situation in Hong Kong (RC-9-2019-0013_EN)
 
-## 🤳🏼 Spread the word on social media
+## 🤳🏼 ソーシャルメディアで広く伝える
 
-Some tips on spreading the word on social media:
+ソーシャルメディアで拡散する際のヒント:
 
-- Don't post unverified information.
-- Post trigger warnings before revealing images of blood and violence.
-- Think about your audience: Do your friends really want to read seven heavily-captioned posts, or do they prefer a single post summary?
-- Engage carefully with friends & family: Sometimes it's best to agree to disagree and move on for now.
-- Engage carefully (or not at all) with the trolls: Do you really need to win that argument on the internet with someone you don't know?
+- 信憑性の確認ができない情報は投稿しない。
+- 十分に信頼できない情報は投稿しない。
+- 流血や暴力が含まれるイメージを投稿する際は、あらかじめ警告メッセージを投稿する。
+- 見る人のことを考えましょう：あなたの友人が見ることを考えてみてください。注意書きが7個も連なる投稿よりも、よくまとまった一つの投稿の方がわかりやすいはずです。
+- 友人や家族を大切に：時と場合によっては、親しい人であっても同意してもらえない事実を受け入れ、次に進む判断をする方が良いことがあります。
+- 見知らぬ人とは慎重に付き合いましょう：インターネット上で知らない人と議論し、言い負かす必要が本当にありますか？ スルーすることも時には必要です。
 
 ---
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+この文章はクリエイティブ・コモンズ・ライセンス（表示 - 非営利 - 継承 4.0 国際）　（https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja）により提供されています。
 
-Send us your suggestions of other ways to help on [email](mailto:hi@hongkonggong.com) or by making a GitHub pull request to this project.
+提案や役に立つ方法がありましたら、メール[email](mailto:hi@hongkonggong.com) でお知らせいただくか、GitHubでプルリクエストをお送りください。
