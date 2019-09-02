@@ -1,38 +1,39 @@
 ※以下の文章を日本語に翻訳してください。
 
-左上の鉛筆ボタンを使うことで修正が可能です。
+上部にある鉛筆ボタンを使うことでこの文章の修正が可能です。
 翻訳する場合、原文の下に日本語訳を追記してください。
 レビュアーの人は、翻訳内容を確認／修正した後、原文を削除してください。
 
-修正の提案がある場合、コメント機能を使ってください。
+修正の提案がある場合、コメント機能を使ってください。不明点を確認したい、提案や相談をしたい、という方は、[Code for Japan のSlack](https://cfjslackin.herokuapp.com/)に加入いただき、[#standwith-hk](https://cfj.slack.com/archives/CKJUBC89E/p1567352188003200)チャンネルにご参加ください。
 
 大元のファイルは[こちら](https://github.com/codeforjapan/beyond-lennon-walls/blob/jp-translation/README.md)にあります。
 
-# Beyond Lennon Walls: Ways to support the Hong Kong protests from afar
+# レノン・ウォールを越えて: 遠隔で香港の抗議行動を支援する方法
 
-Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
+レノン・ウォールを作ったり(訳注：香港各地での抗議行動のひとつ。参考：[香港のレノン・ウォール：Bloomberg](https://headlines.yahoo.co.jp/hl?a=20190722-00000001-bloom_v-int))、集会に参加することが、海外から香港の抗議者行動を支援する最も視覚化された方法かもしれません。しかし、常に最良の手段をとる必要はありません。下記のリストは、遠隔からでも抗議行動を支援できるいくつかのアイデアです。
 
-Last updated 21 August 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
-
----
-
-This document in other languages: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md), [Русский](README-Russian.md)
+最終更新日 2019年8月21日。匿名の投稿を元に作成。Jason Li and Lokman Tsui によってメンテナンスされています。
 
 ---
 
-## 💰 Donate
+他の言語で読む: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md), [Русский](README-Russian.md)
 
-Donate to groups that are supporting protestors on the ground:
+
+---
+
+## 💰 寄付
+
+現地での抗議行動を支援する団体への寄付:
 
 - [612 Humanitarian Relief Fund (612人道支援基金)](https://www.facebook.com/612Fund/) (PayPal: 612fund@atd.hk)
 - [Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/posts/2042900022663786) (Paypal: hkworkxshop@gmail.com)
 
-Donate to groups supporting journalists on the ground:
+現地で活動するジャーナリストを支援する団体への寄付:
 
 - [HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)
-- [Radical HK 基進報導](https://radicalhk.com/about/donation/) (on top of being a news organization, they provide sign language interpretation at many events)
+- [Radical HK 基進報導](https://radicalhk.com/about/donation/) (ニュース組織であることに加え、多くのイベントで手話通訳を提供しています)
 
-Donate to these non-profit, independent news organizations so they can continue to provide coverage of Hong Kong:
+香港のニュースを継続的に伝えるための、非営利の独立系ニュース団体への寄付:
 
 - [Inmedia 香港獨立媒體網](http://www.inmediahk.net/donate) 
 - [Stand News 立場新聞](https://mystand.thestandnews.com/) 
@@ -40,10 +41,12 @@ Donate to these non-profit, independent news organizations so they can continue 
 - [Hong Kong Citizen News 眾新聞](https://www.hkcnews.com/aboutus/)
 - [Hong Kong Free Press](https://www.hongkongfp.com/support-hkfp/)
 
-Donate to these civil society research organizations:
+市民社会の研究組織への寄付:
 
 - [Civil Rights Observer 民權觀察](https://www.hkcro.org/fundraising/)
 - [Hong Kong Public Opinion Research Institute 香港民意研究所](https://www.pori.hk/donation) 
+
+※ここまで翻訳完了
 
 Pitch in for supplies that protect people during police operations from this online store (but keep in mind they're currently backlogged on logistics):
 
@@ -54,6 +57,13 @@ Pitch in for supplies that protect people during police operations from this onl
 If you’re part of a community group, association or organization, publish a statement in support of the protestors. If possible, band together with other groups to sign a joint statement.
 
 Hold discussions within your diaspora communities, with folks who are on the fence or self-identified centrists. But approach with caution if folks are already staunchly against the protests.
+
+## JP 日本在住の方
+
+下記のキャンペーンに署名する
+
+- [Change.org 香港における政府当局による強権的な動きをけん制するため、日本版『香港人権・民主主義法案』の議論を開始することを日本の国会議員に求めます！](http://chng.it/RfKCmdgMTX)
+
 
 ## 🇺🇸 For US residents/citizens
 
