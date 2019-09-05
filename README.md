@@ -2,7 +2,7 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 2 September 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 5 September 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
@@ -35,9 +35,10 @@ Donate to these civil society research organizations:
 - [Civil Rights Observer 民權觀察](https://www.hkcro.org/fundraising/)
 - [Hong Kong Public Opinion Research Institute 香港民意研究所](https://www.pori.hk/donation) 
 
-Pitch in for supplies that protect people during police operations from this online store (but keep in mind they're currently backlogged on logistics):
+Pitch in for supplies that protect people during police operations:
 
-- [HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/)
+- Free MyHK supply station team (PayPal: freemyhk@gmail.com)
+- [HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/) (this online store is backlogged and takes 7-60 days to deliver supplies)
 
 ## 🧓🏻 Organize within your community
 
@@ -57,7 +58,10 @@ Alternately:
 
 - Use this [Action Network](https://actionnetwork.org/letters/co-sponsor-hong-kong-human-rights-and-democracy-act-of-2019) link to automatically find your representatives based on your address and provide an editable letter that asks them to co-sponsor the Hong Kong Human Rights and Democracy Act of 2019.
 
-Reference: [Pelosi Statement in Support of Hong Kong Protestors](https://www.speaker.gov/newsroom/8519-3/)
+References:
+
+- [Pelosi Statement on Withdrawal of Hong Kong Extradition Bill](https://www.speaker.gov/newsroom/9419), Sept 4, 2019
+- [Pelosi Statement in Support of Hong Kong Protestors](https://www.speaker.gov/newsroom/8519-3/), August 6, 2019
 
 ## 🇨🇦 For Canadian residents/citizens
 
@@ -65,10 +69,14 @@ Contact your current MP and MP candidates (find the former [here](https://www.ou
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to introduce a motion in Parliament in support of the Hong Kong protests.
+- Ask them to introduce legislation similar to US's Hong Kong Human Rights and Democracy Act.
 
 Sign these petitions:
 
-- [e-2268 (Hong Kong) at the House of Commons, sponsored by MP Michael Chong](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268)
+- [e-2268 (Hong Kong) at the House of Commons, sponsored by MP Michael Chong](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268).
+- [Support Democracy and Human Rights in Hong Kong](https://chkl.ca/), launched by Canada-Hong Kong Link Toronto, Canadian Voice in Hong Kong, Civic Education Society Vancouver and Friends of Hong Kong Calgary.
+
+If you live abroad, remember you can still [register to vote](https://www.elections.ca/content.aspx?section=vot&dir=reg/etr&document=index&lang=e).
 
 ## 🇬🇧 For UK residents/citizens
 
@@ -85,7 +93,7 @@ Alternately, use [Stand with HK](https://petition.standwithhk.org/) to send an p
 [Contact your representatives](http://www.europarl.europa.eu/meps/en/search/advanced):
 
 - Tell them you are very concerned about the situation in Hong Kong.
-- Urge them to pass Joint Motion for a Resolution on the situation in Hong Kong (RC-9-2019-0013_EN)
+- Urge them to pass [Joint Motion for a Resolution on the situation in Hong Kong (RC-9-2019-0013_EN)](https://www.europarl.europa.eu/doceo/document/RC-9-2019-0013_EN.html)
 
 ## 🇨🇭 For Swiss residents/citizens
 
