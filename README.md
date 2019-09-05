@@ -14,8 +14,8 @@ This document in other languages: [繁體中文](README-繁體中文.md), [Portu
 
 Donate to groups that are supporting protestors on the ground:
 
-- [612 Humanitarian Relief Fund (612人道支援基金)](https://www.facebook.com/612Fund/) (PayPal: 612fund@atd.hk)
-- [Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/posts/2042900022663786) (Paypal: hkworkxshop@gmail.com)
+- [612 Humanitarian Relief Fund (612人道支援基金)](https://www.facebook.com/612Fund/) (PayPal: 612fund@atd.hk) – most reputable, financially transparent
+- [Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/posts/2042900022663786) (Paypal: hkworkxshop@gmail.com) – recommended by frontline protesters
 
 Donate to groups supporting journalists on the ground:
 
