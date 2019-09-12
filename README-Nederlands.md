@@ -10,23 +10,27 @@ ________________________________________
 
 ## 💰 Doneren
 Doneren aan organisaties die de protesteerders in Hong Kong hulp bieden:
-•	612 Humanitarian Relief Fund (612人道支援基金) (PayPal: 612fund@atd.hk) – goeie reputatie en transparante financiën. 
-•	Spark Alliance HK 星火同盟 (Paypal: hkworkxshop@gmail.com) – Wordt aangeraden door de protesteerders aan de frontlinie.
+*	612 Humanitarian Relief Fund (612人道支援基金) (PayPal: 612fund@atd.hk) – goeie reputatie en transparante financiën. 
+*	Spark Alliance HK 星火同盟 (Paypal: hkworkxshop@gmail.com) – Wordt aangeraden door de protesteerders aan de frontlinie.
+
 Doneren aan organisaties die journalisten ter plekke steunen:
-•	HKJA Journalist Protection Fund 香港記者協會保護記者基金
-•	Radical HK 基進報導 (Zowel een nieuws organisatie als voorziener van gebarentaal interpretatie op veel evenementen)
+*	HKJA Journalist Protection Fund 香港記者協會保護記者基金
+* Radical HK 基進報導 (Zowel een nieuws organisatie als voorziener van gebarentaal interpretatie op veel evenementen)
+
 Doneren aan non-profit, onafhankelijke nieuws organisaties zodat zij reportages kunnen blijven maken over Hong Kong:
-•	Inmedia 香港獨立媒體網
-•	Stand News 立場新聞
-•	Factwire (PayPal: factwire)
-•	Hong Kong Citizen News 眾新聞
-•	Hong Kong Free Press
+* Inmedia 香港獨立媒體網
+*	Stand News 立場新聞
+*	Factwire (PayPal: factwire)
+*	Hong Kong Citizen News 眾新聞
+*	Hong Kong Free Press
+
 Doneren aan maatschappelijke/sociale onderzoeksinstanties:
-•	Civil Rights Observer 民權觀察
-•	Hong Kong Public Opinion Research Institute 香港民意研究所
+*	Civil Rights Observer 民權觀察
+*	Hong Kong Public Opinion Research Institute 香港民意研究所
+
 Helpen met bevoorraden van protesteerders die bescherming bieden tijdens politie acties.
-•	Free MyHK supply station team (PayPal: freemyhk@gmail.com)
-•	HK Protect 香港保護: 捐贈裝備送給前線 (Deze online winkel  heft een bevoorradingsachterstand en het duurt 7-60 dagen om spullen te leveren)
+*	Free MyHK supply station team (PayPal: freemyhk@gmail.com)
+*	HK Protect 香港保護: 捐贈裝備送給前線 (Deze online winkel  heft een bevoorradingsachterstand en het duurt 7-60 dagen om spullen te leveren)
 
 
 ## 🧓🏻Organiseren binnen uw lokale gemeenschap
