@@ -10,36 +10,43 @@ ________________________________________
 
 ## 💰 Doneren
 Doneren aan organisaties die de protesteerders in Hong Kong hulp bieden:
-*	612 Humanitarian Relief Fund (612人道支援基金) (PayPal: 612fund@atd.hk) – goeie reputatie en transparante financiën. 
-*	Spark Alliance HK 星火同盟 (Paypal: hkworkxshop@gmail.com) – Wordt aangeraden door de protesteerders aan de frontlinie.
+
+- [612 Humanitarian Relief Fund (612人道支援基金)](https://www.facebook.com/612Fund/) (PayPal: 612fund@atd.hk) - goeie reputatie en transparante financiën. 
+- [Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/posts/2042900022663786) (Paypal: hkworkxshop@gmail.com) – Wordt aangeraden door de protesteerders aan de frontlinie.
 
 Doneren aan organisaties die journalisten ter plekke steunen:
-*	HKJA Journalist Protection Fund 香港記者協會保護記者基金
-* Radical HK 基進報導 (Zowel een nieuws organisatie als voorziener van gebarentaal interpretatie op veel evenementen)
+- [HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)
+- [Radical HK 基進報導](https://radicalhk.com/about/donation/) (Zowel een nieuws organisatie als voorziener van gebarentaal interpretatie op veel evenementen)
+
 
 Doneren aan non-profit, onafhankelijke nieuws organisaties zodat zij reportages kunnen blijven maken over Hong Kong:
-* Inmedia 香港獨立媒體網
-*	Stand News 立場新聞
-*	Factwire (PayPal: factwire)
-*	Hong Kong Citizen News 眾新聞
-*	Hong Kong Free Press
+
+- [Inmedia 香港獨立媒體網](http://www.inmediahk.net/donate) 
+- [Stand News 立場新聞](https://mystand.thestandnews.com/) 
+- [Factwire](https://www.factwire.org/backus/) (PayPal: factwire)
+- [Hong Kong Citizen News 眾新聞](https://www.hkcnews.com/aboutus/)
+- [Hong Kong Free Press](https://www.hongkongfp.com/support-hkfp/)
 
 Doneren aan maatschappelijke/sociale onderzoeksinstanties:
-*	Civil Rights Observer 民權觀察
-*	Hong Kong Public Opinion Research Institute 香港民意研究所
+- [Civil Rights Observer 民權觀察](https://www.hkcro.org/fundraising/)
+- [Hong Kong Public Opinion Research Institute 香港民意研究所](https://www.pori.hk/donation) 
 
 Helpen met bevoorraden van protesteerders die bescherming bieden tijdens politie acties.
-*	Free MyHK supply station team (PayPal: freemyhk@gmail.com)
-*	HK Protect 香港保護: 捐贈裝備送給前線 (Deze online winkel  heft een bevoorradingsachterstand en het duurt 7-60 dagen om spullen te leveren)
+
+
+-	Free MyHK supply station team (PayPal: freemyhk@gmail.com)
+- [HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/) (Deze online winkel  heft een bevoorradingsachterstand en het duurt 7-60 dagen om spullen te leveren)
 
 
 ## 🧓🏻Organiseren binnen uw lokale gemeenschap
 Als u deel bent van een gemeenschap, associatie of andere organisatie kunt u publiekelijk uw steun betuigen voor de protesteerders in een statement. Indien mogelijk zou u ook met andere maatschappelijk organisaties gezamenlijk een statement kunnen maken.
 Het organiseren van discussiebijeenkomsten binnen de lokale Chinese gemeenschap is ook een mogelijkheid. Dit dient er voor om neutrale partijen, ‘centristen’, of mensen die naar meer informatie verlangen te informeren en te overtuigen van het belang van de protesten. Wees wel alert op mogelijke weerstand als de meerderheid als overtuigend tegen is. 
-🇺🇸 Voor  inwoners/burgers van de VS
-Bel uw locale politieke vertegenwoordiger (find hun nummer op callmycongress.com):
+
+
+## 🇺🇸 Voor  inwoners/burgers van de VS
+Bel uw locale politieke vertegenwoordiger (vind hun nummer op callmycongress.com):
 •	Zeg dat je je erg zorgen maakt over de situatie in Hong Kong
-•	Verzoek om ale toekomstige en huidige verkoop van munitie en crowd control uitrusting aan de Hong Kongse politie stop te zetten.
+•	Verzoek om alle toekomstige en huidige verkoop van munitie en crowd control uitrusting aan de Hong Kongse politie stop te zetten.
 •	Vraag om steun voor de Hong Kong Human Rights and Democracy Act (H.R. 3289) (S. 1838).
 Anders:
 •	Gebruik deze link : Action Network om automatisch uw vertegenwoordigers te vinden gebasseerd op uw locatie en stuur een brief om de Hong Kong Human Rights and Democracy Act of 2019 te steunen.
