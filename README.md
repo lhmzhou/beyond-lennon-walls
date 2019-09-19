@@ -2,11 +2,11 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 5 September 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 19 September 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
-This document in other languages: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md), [Русский](README-Russian.md), [日本語](README-Japanese.md), [한국어](README-한국어.md)
+This document in other languages: [繁體中文](README-繁體中文.md), [Português](README-Portugues.md), [Italiano](README-Italiano.md), [Español](README-Español.md), [Deutsch](README-Deutsch.md), [Français](README-Francais.md), [Русский](README-Russian.md), [日本語](README-Japanese.md), [한국어](README-한국어.md), [Nederlands](README-Nederlands.md)
 
 ---
 
@@ -34,6 +34,7 @@ Donate to these civil society research organizations:
 
 - [Civil Rights Observer 民權觀察](https://www.hkcro.org/fundraising/)
 - [Hong Kong Public Opinion Research Institute 香港民意研究所](https://www.pori.hk/donation) 
+- [Liber Research Community](https://liber-research.com/en/support/)
 
 Pitch in for supplies that protect people during police operations:
 
@@ -53,6 +54,7 @@ Call your representatives (find their number on [callmycongress.com](https://www
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to support the call to suspend future sales of munitions and crowd control equipment to the Hong Kong police.
 - Ask them to support passage of the [Hong Kong Human Rights and Democracy Act](https://www.rubio.senate.gov/public/_cache/files/7030f464-ac78-4af9-a5d1-55151ca3b6f8/C89816EECDFDE0D75FB8EC98DDEC4803.mdm19812.pdf) (H.R. 3289) (S. 1838).
+- Ask them to support passage of the [PROTECT Hong Kong Act](https://mcgovern.house.gov/uploadedfiles/hk_protect_act_final.pdf) when it comes up for a vote.
 
 Alternately:
 
@@ -73,7 +75,7 @@ Contact your current MP and MP candidates (find the former [here](https://www.ou
 
 Sign these petitions:
 
-- [e-2268 (Hong Kong) at the House of Commons, sponsored by MP Michael Chong](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268).
+- ~~[e-2268 (Hong Kong) at the House of Commons, sponsored by MP Michael Chong](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268).~~ (Petition closed September 11, 2019.)
 - [Support Democracy and Human Rights in Hong Kong](https://chkl.ca/), launched by Canada-Hong Kong Link Toronto, Canadian Voice in Hong Kong, Civic Education Society Vancouver and Friends of Hong Kong Calgary.
 
 If you live abroad, remember you can still [register to vote](https://www.elections.ca/content.aspx?section=vot&dir=reg/etr&document=index&lang=e).
@@ -118,6 +120,32 @@ Contact members of the parliament to express concern about and solidarity with t
 - [Justice Party](https://www.justice21.org/newhome/about/info04.html?p_kind=2)
 
 [Post a petition to the Blue House](https://www1.president.go.kr/petitions).
+
+## 🇦🇺 For Australian residents/citizens
+
+- Sign [this petition](https://aph.gov.au/petition_sign?id=EN1032), asking Parliament to add a Human Rights Clause to the Trade Agreement with HK. (Petition closes October 9th.)
+
+## 🇹🇼 For Taiwanese residents/citizens
+
+Contact your legislator (find them using [this](https://www.ly.gov.tw/Pages/List.aspx?nodeid=109) or [this](https://billy3321.github.io/lytel/) website):
+
+- Tell them you are very concerned about the situation in Hong Kong.
+- Urge them to make a statement that they will protect Hong Kong's political offenders and protesters.
+
+Donate supplies to [Fridays for the Future, PCT](https://www.facebook.com/FFFPCT) (contact them) that has been batch mailing them to Hong Kong.
+
+(Taiwan information [via chihao & co.](https://g0v.hackmd.io/@chihao/BJkcfJ9Br)).
+
+## 🇳🇱 For Dutch residents/citizens
+
+Contact politicians to express your concerns and ask for support and solidarity. Ask for political support from the government for the protests in the form of a motion:
+
+- [Groenlinks](https://groenlinks.nl/contact/tweedekamer)
+- [VVD](https://www.vvd.nl/persvoorlichters/)
+- [CDA](https://www.cda.nl/contact/)
+- [D66](https://d66.nl/contact/)
+- [Ministerie van buitenlandse zaken](https://www.rijksoverheid.nl/contact/contactgids/ministerie-van-buitenlandse-zaken-buza)
+- [Twitter](https://twitter.com/ministerBlok) Send a message to Stef Blok Minister of Foreign Affairs
 
 ## 🤳🏼 Spread the word on social media
 
