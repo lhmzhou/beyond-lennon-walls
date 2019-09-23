@@ -2,7 +2,7 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 19 September 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 22 September 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
@@ -12,14 +12,14 @@ This document in other languages: [繁體中文](README-繁體中文.md), [Portu
 
 ## 💰 Donate
 
-Donate to groups that are supporting protestors on the ground:
+Donate to groups that are supporting protestors on the ground (both groups' PayPal accounts are not working at the moment):
 
-- [612 Humanitarian Relief Fund (612人道支援基金)](https://www.facebook.com/612Fund/) (PayPal: 612fund@atd.hk) – most reputable, financially transparent
-- [Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/posts/2042900022663786) (Paypal: hkworkxshop@gmail.com) – recommended by frontline protesters
+- [612 Humanitarian Relief Fund (612人道支援基金)](https://bit.ly/612Fund_Donate) – most reputable, financially transparent
+- [Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/posts/2042900022663786) – recommended by frontline protesters
 
 Donate to groups supporting journalists on the ground:
 
-- [HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)
+- ~~[HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)~~ (Fundraising period ended)
 - [Radical HK 基進報導](https://radicalhk.com/about/donation/) (on top of being a news organization, they provide sign language interpretation at many events)
 
 Donate to these non-profit, independent news organizations so they can continue to provide coverage of Hong Kong:
@@ -39,7 +39,7 @@ Donate to these civil society research organizations:
 Pitch in for supplies that protect people during police operations:
 
 - Free MyHK supply station team (PayPal: freemyhk@gmail.com)
-- [HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/) (this online store is backlogged and takes 7-60 days to deliver supplies)
+- ~~[HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/) (this online store is backlogged and takes 7-60 days to deliver supplies)~~ (Ceased operations)
 
 ## 🧓🏻 Organize within your community
 
