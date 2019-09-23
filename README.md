@@ -123,13 +123,10 @@ Contact members of the parliament to express concern about and solidarity with t
 
 ## 🇦🇺 For Australian residents/citizens
 
-Sign these petitions:
+Sign the parliamentary petitions below. (Note: they "will not publish your information online, but your name will be included in the final petition presented to the House of Representatives.")
 
-- [(EN1032) Add Human Rights Clauses to Trade Agreement with Hong Kong](https://aph.gov.au/petition_sign?id=EN1032) - on Australian Parliament (closes October 9th)
-- [(EN1029) Bring Hong Kong's predicament to the United Nations Human Rights Council](https://www.aph.gov.au/petition_sign?id=EN1029) - on Australian Parliament (closes October 9th)
-- [Impose Sanctions on Persons Found to be Suppressing Human Rights in Hong Kong](https://www.change.org/p/the-senate-of-australia-impose-sanctions-on-persons-found-to-be-suppressing-human-rights-in-hong-kong-df999fe5-3d9f-434b-8f58-d0840619a046) - on Change.org
-- [Investigate Gladys Liu (an Australian Politician) and her relationships with the CCP and United Front work](https://www.change.org/p/mark-dreyfus-qc-mp-ms-gladys-liu-to-answer-the-australian-people-with-honesty) - on Change.org
-- [Shut down China's Confucius Institute at the University of Queensland (UQ)](https://www.change.org/p/university-of-queensland-vice-chancellor-professor-peter-h%C3%B8j-no-place-for-chinese-propaganda-in-australian-universities) - on Change.org, following NSW's lead [(article)](https://www.smh.com.au/national/nsw/nsw-schools-to-scrap-confucius-classroom-program-after-review-20190822-p52juy.html)
+- [(EN1032) Add Human Rights Clauses to Trade Agreement with Hong Kong](https://aph.gov.au/petition_sign?id=EN1032) (closes October 9th)
+- [(EN1029) Bring Hong Kong's predicament to the United Nations Human Rights Council](https://www.aph.gov.au/petition_sign?id=EN1029) (closes October 9th)
 
 ## 🇹🇼 For Taiwanese residents/citizens
 
