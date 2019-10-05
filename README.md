@@ -64,6 +64,7 @@ References:
 
 - [Pelosi Statement on Withdrawal of Hong Kong Extradition Bill](https://www.speaker.gov/newsroom/9419), Sept 4, 2019
 - [Pelosi Statement in Support of Hong Kong Protestors](https://www.speaker.gov/newsroom/8519-3/), August 6, 2019
+- [Rubio Comments on Withdrawal of Hong Kong Extradition Bill](https://www.rubio.senate.gov/public/index.cfm/2019/9/rubio-comments-on-withdrawal-of-hong-kong-extradition-bill), Sept 4, 2019
 
 ## 🇨🇦 For Canadian residents/citizens
 
