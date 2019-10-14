@@ -2,7 +2,7 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 22 September 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 14 October 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
@@ -35,6 +35,10 @@ Donate to these civil society research organizations:
 - [Civil Rights Observer 民權觀察](https://www.hkcro.org/fundraising/)
 - [Hong Kong Public Opinion Research Institute 香港民意研究所](https://www.pori.hk/donation) 
 - [Liber Research Community](https://liber-research.com/en/support/)
+
+Donate to this League of Social Democrats (a pro-democracy political party)'s campaign to help victims sue the police over alleged mistreatment:
+
+- ["Sue the Abuser" crowdfunding scheme](https://www.lsd.org.hk/donate/?lang=en)
 
 Pitch in for supplies that protect people during police operations:
 
