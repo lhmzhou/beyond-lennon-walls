@@ -41,6 +41,10 @@ Pitch in for supplies that protect people during police operations:
 - Free MyHK supply station team (PayPal: freemyhk@gmail.com)
 - ~~[HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/) (this online store is backlogged and takes 7-60 days to deliver supplies)~~ (Ceased operations)
 
+Donate to this League of Social Democrats (a pro-democracy political party)'s campaign to help victims sue the police over alleged mistreatment:
+
+- ["Sue the Abuser" crowdfunding scheme](https://www.lsd.org.hk/donate/?lang=en)
+
 ## 🧓🏻 Organize within your community
 
 If you’re part of a community group, association or organization, publish a statement in support of the protestors. If possible, band together with other groups to sign a joint statement.
