@@ -19,9 +19,9 @@ Donate to groups that are supporting protestors on the ground (both groups' PayP
 
 Donate to these legislator-backed crowdfunding campaigns:
 
-- [Prevent Imprisonment of Online Expression, Defend Freedom of Speech](https://gogetfunding.com/jrcensorship/): a judicial review challenging the government's injunction against posting and sharing incendiary content online.
-- [24 Pro-Democracy Legislators' campaign](https://gogetfunding.com/%E6%B0%91%E4%B8%BB%E6%B4%BE%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E3%80%8A%E7%B7%8A%E6%80%A5%E6%B3%95%E3%80%8B%E5%8F%8A%E3%80%8A%E7%A6%81%E8%92%99%E9%9D%A2/): a judicial review to suspend the government's Prohibition on Face Covering Regulation and Emergency Regulations Ordinance.
-- [Sue the Abuser](https://www.lsd.org.hk/donate/?lang=en): helping victims sue the police over alleged mistreatment.
+- [Prevent Imprisonment of Online Expression](https://gogetfunding.com/jrcensorship/) - a judicial review challenging the government's injunction against posting and sharing incendiary content online.
+- [24 Pro-Democracy Legislators' JR campaign](https://gogetfunding.com/%E6%B0%91%E4%B8%BB%E6%B4%BE%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E3%80%8A%E7%B7%8A%E6%80%A5%E6%B3%95%E3%80%8B%E5%8F%8A%E3%80%8A%E7%A6%81%E8%92%99%E9%9D%A2/) - a judicial review to suspend the government's Prohibition on Face Covering Regulation and Emergency Regulations Ordinance.
+- [Sue the Abuser](https://www.lsd.org.hk/donate/?lang=en) - helping victims sue the police over alleged mistreatment.
 
 Donate to groups supporting journalists on the ground:
 
