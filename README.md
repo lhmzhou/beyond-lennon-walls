@@ -2,7 +2,7 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 14 October 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 12 November 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
@@ -16,6 +16,12 @@ Donate to groups that are supporting protestors on the ground (both groups' PayP
 
 - [612 Humanitarian Relief Fund (612人道支援基金)](https://bit.ly/612Fund_Donate) – most reputable, financially transparent
 - [Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/posts/2042900022663786) – recommended by frontline protesters
+
+Donate to these legislator-backed crowdfunding campaigns:
+
+- [Prevent Imprisonment of Online Expression, Defend Freedom of Speech](https://gogetfunding.com/jrcensorship/): a judicial review challenging the government's injunction against posting and sharing incendiary content online.
+- [24 Pro-Democracy Legislators' campaign](https://gogetfunding.com/%E6%B0%91%E4%B8%BB%E6%B4%BE%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E3%80%8A%E7%B7%8A%E6%80%A5%E6%B3%95%E3%80%8B%E5%8F%8A%E3%80%8A%E7%A6%81%E8%92%99%E9%9D%A2/): a judicial review to suspend the government's Prohibition on Face Covering Regulation and Emergency Regulations Ordinance.
+- [Sue the Abuser](https://www.lsd.org.hk/donate/?lang=en): helping victims sue the police over alleged mistreatment.
 
 Donate to groups supporting journalists on the ground:
 
@@ -35,10 +41,6 @@ Donate to these civil society research organizations:
 - [Civil Rights Observer 民權觀察](https://www.hkcro.org/fundraising/)
 - [Hong Kong Public Opinion Research Institute 香港民意研究所](https://www.pori.hk/donation) 
 - [Liber Research Community](https://liber-research.com/en/support/)
-
-Donate to this League of Social Democrats (a pro-democracy political party)'s campaign to help victims sue the police over alleged mistreatment:
-
-- ["Sue the Abuser" crowdfunding scheme](https://www.lsd.org.hk/donate/?lang=en)
 
 Pitch in for supplies that protect people during police operations:
 
