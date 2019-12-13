@@ -2,7 +2,7 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 12 November 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 13 December 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
@@ -14,19 +14,19 @@ This document in other languages: [繁體中文](README-繁體中文.md), [Portu
 
 Donate to groups that are supporting protestors on the ground (both groups' PayPal accounts are not working at the moment):
 
-- [612 Humanitarian Relief Fund (612人道支援基金)](https://bit.ly/612Fund_Donate) – most reputable, financially transparent
-- [Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/posts/2042900022663786) – recommended by frontline protesters
+- [612 Humanitarian Relief Fund (612人道支援基金)](https://612fund.hk/donate) – most reputable, financially transparent
+- [Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/) – recommended by frontline protesters. Their bank account is currently suspended so they recommend buying [these gift cards](https://www.ourhkworks.com/product/%e7%a6%ae%e5%93%81%e5%8d%a1/) as a form of donation.
 
 Donate to these legislator-backed crowdfunding campaigns:
 
-- [Prevent Imprisonment of Online Expression](https://gogetfunding.com/jrcensorship/) - a judicial review challenging the government's injunction against posting and sharing incendiary content online.
-- [24 Pro-Democracy Legislators' JR campaign](https://gogetfunding.com/%E6%B0%91%E4%B8%BB%E6%B4%BE%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E3%80%8A%E7%B7%8A%E6%80%A5%E6%B3%95%E3%80%8B%E5%8F%8A%E3%80%8A%E7%A6%81%E8%92%99%E9%9D%A2/) - a judicial review to suspend the government's Prohibition on Face Covering Regulation and Emergency Regulations Ordinance.
 - [Sue the Abuser](https://www.lsd.org.hk/donate/?lang=en) - helping victims sue the police over alleged mistreatment.
+- ~~[Prevent Imprisonment of Online Expression](https://gogetfunding.com/jrcensorship/) - a judicial review challenging the government's injunction against posting and sharing incendiary content online.~~ ✅
+- ~~[24 Pro-Democracy Legislators' JR campaign](https://gogetfunding.com/%E6%B0%91%E4%B8%BB%E6%B4%BE%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E3%80%8A%E7%B7%8A%E6%80%A5%E6%B3%95%E3%80%8B%E5%8F%8A%E3%80%8A%E7%A6%81%E8%92%99%E9%9D%A2/) - a judicial review to suspend the government's Prohibition on Face Covering Regulation and Emergency Regulations Ordinance.~~ ✅
 
 Donate to groups supporting journalists on the ground:
 
-- ~~[HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)~~ (Fundraising period ended)
 - [Radical HK 基進報導](https://radicalhk.com/about/donation/) (on top of being a news organization, they provide sign language interpretation at many events)
+- ~~[HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)~~ ✅
 
 Donate to these non-profit, independent news organizations so they can continue to provide coverage of Hong Kong:
 
@@ -44,14 +44,16 @@ Donate to these civil society research organizations:
 
 Pitch in for supplies that protect people during police operations:
 
-- Free MyHK supply station team (PayPal: freemyhk@gmail.com)
+- ~~Free MyHK supply station team (PayPal: freemyhk@gmail.com)~~ (Suspended)
 - ~~[HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/) (this online store is backlogged and takes 7-60 days to deliver supplies)~~ (Ceased operations)
 
 ## 🧓🏻 Organize within your community
 
-If you’re part of a community group, association or organization, publish a statement in support of the protestors. If possible, band together with other groups to sign a joint statement.
+- 🆕 Persuade your organization to [sign this letter](%5Bhttps://rainlily.org.hk/glosign%5D(https://rainlily.org.hk/glosign) urging the UN Special Rapporteur on Violence Against Women "to examine gender-based violence committed by the Hong Kong Police Force."
 
-Hold discussions within your diaspora communities, with folks who are on the fence or self-identified centrists. But approach with caution if folks are already staunchly against the protests.
+- If you’re part of a community group, association or organization, publish a statement in support of the protestors. If possible, band together with other groups to sign a joint statement.
+
+- Hold discussions within your diaspora communities, with folks who are on the fence or self-identified centrists. But approach with caution if folks are already staunchly against the protests.
 
 ## 🇺🇸 For US residents/citizens
 
@@ -59,12 +61,7 @@ Call your representatives (find their number on [callmycongress.com](https://www
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to support the call to suspend future sales of munitions and crowd control equipment to the Hong Kong police.
-- Ask them to support passage of the [Hong Kong Human Rights and Democracy Act](https://www.rubio.senate.gov/public/_cache/files/7030f464-ac78-4af9-a5d1-55151ca3b6f8/C89816EECDFDE0D75FB8EC98DDEC4803.mdm19812.pdf) (H.R. 3289) (S. 1838).
-- Ask them to support passage of the [PROTECT Hong Kong Act](https://mcgovern.house.gov/uploadedfiles/hk_protect_act_final.pdf) when it comes up for a vote.
-
-Alternately:
-
-- Use this [Action Network](https://actionnetwork.org/letters/co-sponsor-hong-kong-human-rights-and-democracy-act-of-2019) link to automatically find your representatives based on your address and provide an editable letter that asks them to co-sponsor the Hong Kong Human Rights and Democracy Act of 2019.
+- ~~Ask them to support passage of the [Hong Kong Human Rights and Democracy Act](https://www.rubio.senate.gov/public/_cache/files/7030f464-ac78-4af9-a5d1-55151ca3b6f8/C89816EECDFDE0D75FB8EC98DDEC4803.mdm19812.pdf) (H.R. 3289) (S. 1838).~~ ✅
 
 References:
 
@@ -83,9 +80,9 @@ Contact your current MP and MP candidates (find the former [here](https://www.ou
 Sign these petitions:
 
 - ~~[e-2268 (Hong Kong) at the House of Commons, sponsored by MP Michael Chong](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268).~~ (Petition closed September 11, 2019.)
-- [Support Democracy and Human Rights in Hong Kong](https://chkl.ca/), launched by Canada-Hong Kong Link Toronto, Canadian Voice in Hong Kong, Civic Education Society Vancouver and Friends of Hong Kong Calgary.
+- ~~[Support Democracy and Human Rights in Hong Kong](https://chkl.ca/), launched by Canada-Hong Kong Link Toronto, Canadian Voice in Hong Kong, Civic Education Society Vancouver and Friends of Hong Kong Calgary.~~ (Petition offline.)
 
-If you live abroad, remember you can still [register to vote](https://www.elections.ca/content.aspx?section=vot&dir=reg/etr&document=index&lang=e).
+If you live abroad, remember you can still [register to vote](https://www.elections.ca/content.aspx?section=vot&dir=reg/etr&document=index&lang=e) in Canada.
 
 ## 🇬🇧 For UK residents/citizens
 
@@ -96,6 +93,8 @@ Contact your representatives ([WriteToThem](https://www.writetothem.com/) helps 
 - Ask them to uphold the 1984 [Sino–British Joint Declaration](https://en.wikipedia.org/wiki/Sino-British_Joint_Declaration)
 
 Alternately, use [Stand with HK](https://petition.standwithhk.org/) to send an pre-written email to your MP that asks them to uphold the 1984 Sino-British Joint Declaration.
+
+Also, donate to [Hong Kong Watch](https://www.hongkongwatch.org/subscribe), "a UK-based registered charity which researches and monitors threats to Hong Kong’s basic freedoms, the rule of law and autonomy as promised under the ‘one country, two systems’ principle..."
 
 ## 🇪🇺 For EU residents/citizens
 
@@ -132,8 +131,8 @@ Contact members of the parliament to express concern about and solidarity with t
 
 Sign the parliamentary petitions below. (Note: they "will not publish your information online, but your name will be included in the final petition presented to the House of Representatives.")
 
-- [(EN1032) Add Human Rights Clauses to Trade Agreement with Hong Kong](https://aph.gov.au/petition_sign?id=EN1032) (closes October 9th)
-- [(EN1029) Bring Hong Kong's predicament to the United Nations Human Rights Council](https://www.aph.gov.au/petition_sign?id=EN1029) (closes October 9th)
+- ~~[(EN1032) Add Human Rights Clauses to Trade Agreement with Hong Kong](https://aph.gov.au/petition_sign?id=EN1032) (closes October 9th)~~ (Petition closed.)
+- ~~[(EN1029) Bring Hong Kong's predicament to the United Nations Human Rights Council](https://www.aph.gov.au/petition_sign?id=EN1029) (closes October 9th)~~ (Petition closed.)
 
 ## 🇹🇼 For Taiwanese residents/citizens
 
@@ -155,7 +154,7 @@ Contact politicians to express your concerns and ask for support and solidarity.
 - [CDA](https://www.cda.nl/contact/)
 - [D66](https://d66.nl/contact/)
 - [Ministerie van buitenlandse zaken](https://www.rijksoverheid.nl/contact/contactgids/ministerie-van-buitenlandse-zaken-buza)
-- [Twitter](https://twitter.com/ministerBlok) Send a message to Stef Blok Minister of Foreign Affairs
+- Send a message to [Stef Blok Minister of Foreign Affairs on Twitter](https://twitter.com/ministerBlok).
 
 ## 🤳🏼 Spread the word on social media
 
@@ -166,6 +165,8 @@ Some tips on spreading the word on social media:
 - Think about your audience: Do your friends really want to read seven heavily-captioned posts, or do they prefer a single post summary?
 - Engage carefully with friends & family: Sometimes it's best to agree to disagree and move on for now.
 - Engage carefully (or not at all) with the trolls: Do you really need to win that argument on the internet with someone you don't know?
+
+More about this by Reddit user @vikingbiochemist: [Don't drown the signal in noise: Unsolicited advice for the fine people of this sub from a PR professional](https://www.reddit.com/r/HongKong/comments/cwjzyg/dont_drown_the_signal_in_noise_unsolicited_advice/).
 
 ---
 
