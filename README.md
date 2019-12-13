@@ -49,7 +49,7 @@ Pitch in for supplies that protect people during police operations:
 
 ## 🧓🏻 Organize within your community
 
-- 🆕 Persuade your organization to [sign this letter](%5Bhttps://rainlily.org.hk/glosign%5D(https://rainlily.org.hk/glosign) urging the UN Special Rapporteur on Violence Against Women "to examine gender-based violence committed by the Hong Kong Police Force."
+- 🆕 Persuade your organization to [sign this letter](https://rainlily.org.hk/glosign) urging the UN Special Rapporteur on Violence Against Women "to examine gender-based violence committed by the Hong Kong Police Force."
 
 - If you’re part of a community group, association or organization, publish a statement in support of the protestors. If possible, band together with other groups to sign a joint statement.
 
