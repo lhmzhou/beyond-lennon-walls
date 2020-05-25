@@ -2,7 +2,7 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 23 December 2019. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 26 May 2020. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
@@ -15,11 +15,12 @@ This document in other languages: [繁體中文](README-繁體中文.md), [Portu
 Donate to groups that are supporting protestors on the ground (both groups' PayPal accounts are not working at the moment):
 
 - [612 Humanitarian Relief Fund (612人道支援基金)](https://612fund.hk/donate) – most reputable, financially transparent
-- ~~[Spark Alliance HK 星火同盟](https://www.facebook.com/sparkalliancehk/) – recommended by frontline protesters. Their bank account is currently suspended so they recommend buying [these gift cards](https://www.ourhkworks.com/product/%e7%a6%ae%e5%93%81%e5%8d%a1/) as a form of donation.~~ (accounts frozen)
+- [Spark Alliance HK 星火同盟]([https://www.ourhkworks.com/product/support/](https://www.ourhkworks.com/product/support/) – recommended by frontline protesters.
 
 Donate to these legislator-backed crowdfunding campaigns:
 
 - [Sue the Abuser](https://www.lsd.org.hk/donate/?lang=en) - helping victims sue the police over alleged mistreatment.
+- ~~[Fund the Private Prosecution: Ray Chan v. Kwok Wai-keung](https://gogetfunding.com/chan-v-kwok/) - fund lawsuit on charges of assault~~ ✅
 - ~~[Prevent Imprisonment of Online Expression](https://gogetfunding.com/jrcensorship/) - a judicial review challenging the government's injunction against posting and sharing incendiary content online.~~ ✅
 - ~~[24 Pro-Democracy Legislators' JR campaign](https://gogetfunding.com/%E6%B0%91%E4%B8%BB%E6%B4%BE%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E3%80%8A%E7%B7%8A%E6%80%A5%E6%B3%95%E3%80%8B%E5%8F%8A%E3%80%8A%E7%A6%81%E8%92%99%E9%9D%A2/) - a judicial review to suspend the government's Prohibition on Face Covering Regulation and Emergency Regulations Ordinance.~~ ✅
 
@@ -32,7 +33,7 @@ Donate to these non-profit, independent news organizations so they can continue 
 
 - [Inmedia 香港獨立媒體網](http://www.inmediahk.net/donate) 
 - [Stand News 立場新聞](https://mystand.thestandnews.com/) 
-- [Factwire](https://www.factwire.org/backus/) (PayPal: factwire)
+- [Factwire](https://www.factwire.org/backus/)
 - [Hong Kong Citizen News 眾新聞](https://www.hkcnews.com/aboutus/)
 - [Hong Kong Free Press](https://www.hongkongfp.com/support-hkfp/)
 
@@ -44,6 +45,7 @@ Donate to these civil society research organizations:
 
 Pitch in for supplies that protect people during police operations:
 
+- [Trauma supplies for Hong Kong volunteer medics](https://www.gofundme.com/f/trauma-supplies-for-hong-kong-volunteer-medics)
 - ~~Free MyHK supply station team (PayPal: freemyhk@gmail.com)~~ (Suspended)
 - ~~[HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/) (this online store is backlogged and takes 7-60 days to deliver supplies)~~ (Ceased operations)
 
@@ -55,7 +57,21 @@ Pitch in for supplies that protect people during police operations:
 
 - Hold discussions within your diaspora communities, with folks who are on the fence or self-identified centrists. But approach with caution if folks are already staunchly against the protests.
 
+## 🗄 Organize within your workplace
+
+- Consider candidates in Hong Kong for your next remote job or freelance contract opening.
+
+- Help organize scholarships and internships for people in and from Hong Kong.
+
+## 🌏 For everyone
+
+Contact your government representatives and ask them to sign [this joint statement](https://www.hongkongwatch.org/all-posts/2020/5/25/write-to-your-mp-ask-them-to-sign-the-joint-international-parliamentary-letter-on-hong-kong) led by Led by the former Governor of Hong Kong, Lord Patten, and the former UK Foreign Secretary, Sir Malcolm Rifkind, expressing "grave concern" over the "unilateral introduction of national security legislation in Hong Kong."
+
+[More information about the 200+ signatories](https://www.hongkongwatch.org/all-posts/2020/5/23/patten-led-group-of-198-parliamentarians-from-23-countries-decry-flagrant-breach-of-the-sino-british-joint-declaration).
+
 ## 🇺🇸 For US residents/citizens
+
+[Donate to the Yellow Dandelion Foundation](https://www.yellowdandelionhk.org/donation), a California-based non-profit that provides supplies for protesters in Hong Kong.
 
 Call your representatives (find their number on [callmycongress.com](https://www.callmycongress.com/)):
 
@@ -77,12 +93,12 @@ Contact your current MP and MP candidates (find the former [here](https://www.ou
 - Ask them to introduce a motion in Parliament in support of the Hong Kong protests.
 - Ask them to introduce legislation similar to US's Hong Kong Human Rights and Democracy Act.
 
+
+
 Sign these petitions:
 
 - ~~[e-2268 (Hong Kong) at the House of Commons, sponsored by MP Michael Chong](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268).~~ (Petition closed September 11, 2019.)
 - ~~[Support Democracy and Human Rights in Hong Kong](https://chkl.ca/), launched by Canada-Hong Kong Link Toronto, Canadian Voice in Hong Kong, Civic Education Society Vancouver and Friends of Hong Kong Calgary.~~ (Petition offline.)
-
-If you live abroad, remember you can still [register to vote](https://www.elections.ca/content.aspx?section=vot&dir=reg/etr&document=index&lang=e) in Canada.
 
 ## 🇬🇧 For UK residents/citizens
 
@@ -94,7 +110,7 @@ Contact your representatives ([WriteToThem](https://www.writetothem.com/) helps 
 
 Alternately, use [Stand with HK](https://petition.standwithhk.org/) to send an pre-written email to your MP that asks them to uphold the 1984 Sino-British Joint Declaration.
 
-Also, donate to [Hong Kong Watch](https://www.hongkongwatch.org/subscribe), "a UK-based registered charity which researches and monitors threats to Hong Kong’s basic freedoms, the rule of law and autonomy as promised under the ‘one country, two systems’ principle..."
+Also, donate to [Hong Kong Watch](https://www.hongkongwatch.org/donate), "a UK-based registered charity which researches and monitors threats to Hong Kong’s basic freedoms, the rule of law and autonomy as promised under the ‘one country, two systems’ principle..."
 
 ## 🇪🇺 For EU residents/citizens
 
@@ -141,7 +157,7 @@ Contact your legislator (find them using [this](https://www.ly.gov.tw/Pages/List
 - Tell them you are very concerned about the situation in Hong Kong.
 - Urge them to make a statement that they will protect Hong Kong's political offenders and protesters.
 
-Donate supplies to [Fridays for the Future, PCT](https://www.facebook.com/FFFPCT) (contact them) that has been batch mailing them to Hong Kong.
+~~Donate supplies to [Fridays for the Future, PCT](https://www.facebook.com/FFFPCT) (contact them) that has been batch mailing them to Hong Kong.~~
 
 (Taiwan information [via chihao & co.](https://g0v.hackmd.io/@chihao/BJkcfJ9Br)).
 
