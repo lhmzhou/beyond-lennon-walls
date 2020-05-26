@@ -21,13 +21,10 @@ Donate to these legislator-backed crowdfunding campaigns:
 
 - [Sue the Abuser](https://www.lsd.org.hk/donate/?lang=en) - helping victims sue the police over alleged mistreatment.
 - ~~[Fund the Private Prosecution: Ray Chan v. Kwok Wai-keung](https://gogetfunding.com/chan-v-kwok/) - fund lawsuit on charges of assault~~ ✅
-- ~~[Prevent Imprisonment of Online Expression](https://gogetfunding.com/jrcensorship/) - a judicial review challenging the government's injunction against posting and sharing incendiary content online.~~ ✅
-- ~~[24 Pro-Democracy Legislators' JR campaign](https://gogetfunding.com/%E6%B0%91%E4%B8%BB%E6%B4%BE%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E3%80%8A%E7%B7%8A%E6%80%A5%E6%B3%95%E3%80%8B%E5%8F%8A%E3%80%8A%E7%A6%81%E8%92%99%E9%9D%A2/) - a judicial review to suspend the government's Prohibition on Face Covering Regulation and Emergency Regulations Ordinance.~~ ✅
 
 Donate to groups supporting journalists on the ground:
 
 - [Radical HK 基進報導](https://radicalhk.com/about/donation/) (on top of being a news organization, they provide sign language interpretation at many events)
-- ~~[HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)~~ ✅
 
 Donate to these non-profit, independent news organizations so they can continue to provide coverage of Hong Kong:
 
@@ -46,8 +43,7 @@ Donate to these civil society research organizations:
 Pitch in for supplies that protect people during police operations:
 
 - [Trauma supplies for Hong Kong volunteer medics](https://www.gofundme.com/f/trauma-supplies-for-hong-kong-volunteer-medics)
-- ~~Free MyHK supply station team (PayPal: freemyhk@gmail.com)~~ (Suspended)
-- ~~[HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/) (this online store is backlogged and takes 7-60 days to deliver supplies)~~ (Ceased operations)
+- [HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/)
 
 ## 🧓🏻 Organize within your community
 
@@ -77,7 +73,6 @@ Call your representatives (find their number on [callmycongress.com](https://www
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to support the call to suspend future sales of munitions and crowd control equipment to the Hong Kong police.
-- ~~Ask them to support passage of the [Hong Kong Human Rights and Democracy Act](https://www.rubio.senate.gov/public/_cache/files/7030f464-ac78-4af9-a5d1-55151ca3b6f8/C89816EECDFDE0D75FB8EC98DDEC4803.mdm19812.pdf) (H.R. 3289) (S. 1838).~~ ✅
 
 References:
 
@@ -92,13 +87,6 @@ Contact your current MP and MP candidates (find the former [here](https://www.ou
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to introduce a motion in Parliament in support of the Hong Kong protests.
 - Ask them to introduce legislation similar to US's Hong Kong Human Rights and Democracy Act.
-
-
-
-Sign these petitions:
-
-- ~~[e-2268 (Hong Kong) at the House of Commons, sponsored by MP Michael Chong](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268).~~ (Petition closed September 11, 2019.)
-- ~~[Support Democracy and Human Rights in Hong Kong](https://chkl.ca/), launched by Canada-Hong Kong Link Toronto, Canadian Voice in Hong Kong, Civic Education Society Vancouver and Friends of Hong Kong Calgary.~~ (Petition offline.)
 
 ## 🇬🇧 For UK residents/citizens
 
@@ -143,21 +131,12 @@ Contact members of the parliament to express concern about and solidarity with t
 
 [Post a petition to the Blue House](https://www1.president.go.kr/petitions).
 
-## 🇦🇺 For Australian residents/citizens
-
-Sign the parliamentary petitions below. (Note: they "will not publish your information online, but your name will be included in the final petition presented to the House of Representatives.")
-
-- ~~[(EN1032) Add Human Rights Clauses to Trade Agreement with Hong Kong](https://aph.gov.au/petition_sign?id=EN1032) (closes October 9th)~~ (Petition closed.)
-- ~~[(EN1029) Bring Hong Kong's predicament to the United Nations Human Rights Council](https://www.aph.gov.au/petition_sign?id=EN1029) (closes October 9th)~~ (Petition closed.)
-
 ## 🇹🇼 For Taiwanese residents/citizens
 
 Contact your legislator (find them using [this](https://www.ly.gov.tw/Pages/List.aspx?nodeid=109) or [this](https://billy3321.github.io/lytel/) website):
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Urge them to make a statement that they will protect Hong Kong's political offenders and protesters.
-
-~~Donate supplies to [Fridays for the Future, PCT](https://www.facebook.com/FFFPCT) (contact them) that has been batch mailing them to Hong Kong.~~
 
 (Taiwan information [via chihao & co.](https://g0v.hackmd.io/@chihao/BJkcfJ9Br)).
 
@@ -185,6 +164,34 @@ Some tips on spreading the word on social media:
 More about this by Reddit user @vikingbiochemist: [Don't drown the signal in noise: Unsolicited advice for the fine people of this sub from a PR professional](https://www.reddit.com/r/HongKong/comments/cwjzyg/dont_drown_the_signal_in_noise_unsolicited_advice/).
 
 ---
+
+## ✅ 2019 archive
+
+### Donations
+
+- [Prevent Imprisonment of Online Expression](https://gogetfunding.com/jrcensorship/) - a judicial review challenging the government's injunction against posting and sharing incendiary content online.
+
+- [24 Pro-Democracy Legislators' JR campaign](https://gogetfunding.com/%E6%B0%91%E4%B8%BB%E6%B4%BE%E7%AB%8B%E6%B3%95%E6%9C%83%E8%AD%B0%E5%93%A1%E5%8F%B8%E6%B3%95%E8%A6%86%E6%A0%B8%E3%80%8A%E7%B7%8A%E6%80%A5%E6%B3%95%E3%80%8B%E5%8F%8A%E3%80%8A%E7%A6%81%E8%92%99%E9%9D%A2/) - a judicial review to suspend the government's Prohibition on Face Covering Regulation and Emergency Regulations Ordinance.
+
+- [HKJA Journalist Protection Fund 香港記者協會保護記者基金](https://gogetfunding.com/hkjaraisefund/)
+
+- Free MyHK supply station team (PayPal: [freemyhk@gmail.com](mailto:freemyhk@gmail.com))  (Suspended)
+
+## For citizens/residents in:
+
+- 🇺🇸 Ask them to support passage of the [Hong Kong Human Rights and Democracy Act](https://www.rubio.senate.gov/public/_cache/files/7030f464-ac78-4af9-a5d1-55151ca3b6f8/C89816EECDFDE0D75FB8EC98DDEC4803.mdm19812.pdf) (H.R. 3289) (S. 1838).
+
+- 🇨🇦[e-2268 (Hong Kong) at the House of Commons, sponsored by MP Michael Chong](https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-2268). (Petition closed September 11, 2019.)
+
+- 🇨🇦[Support Democracy and Human Rights in Hong Kong](https://chkl.ca/), launched by Canada-Hong Kong Link Toronto, Canadian Voice in Hong Kong, Civic Education Society Vancouver and Friends of Hong Kong Calgary. (Petition offline.)
+
+- 🇦🇺 [(EN1032) Add Human Rights Clauses to Trade Agreement with Hong Kong](https://aph.gov.au/petition_sign?id=EN1032) (closes October 9th) (Petition closed.)
+
+- 🇦🇺[(EN1029) Bring Hong Kong's predicament to the United Nations Human Rights Council](https://www.aph.gov.au/petition_sign?id=EN1029) (closes October 9th) (Petition closed.)
+
+- 🇹🇼 Donate supplies to [Fridays for the Future, PCT](https://www.facebook.com/FFFPCT) (contact them) that has been batch mailing them to Hong Kong.
+
+--- 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
