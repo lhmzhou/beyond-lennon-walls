@@ -70,7 +70,7 @@ Call your representatives (find their number on [callmycongress.com](https://www
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to support [S.3798 - A bill to impose sanctions with respect to foreign persons involved in the erosion of certain obligations of China with respect to Hong Kong, and for other purposes.](https://www.congress.gov/bill/116th-congress/senate-bill/3798)
-- Ask them to support [S.2758 - Hong Kong Be Water Act](https://www.congress.gov/bill/116th-congress/senate-bill/2758)
+- Ask them to support [S.2758 - Hong Kong Be Water Act](https://www.congress.gov/bill/116th-congress/senate-bill/2758), which "directs the President to impose sanctions on, and freeze assets belonging to, individuals and entities responsible for suppression of freedoms in Hong Kong."
 - Ask them to support the call to suspend future sales of munitions and crowd control equipment to the Hong Kong police.
 
 ## 🇨🇦 For Canadian residents/citizens
