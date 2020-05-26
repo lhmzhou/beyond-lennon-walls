@@ -58,7 +58,7 @@ Pitch in for supplies that protect people during police operations:
 
 ## 🌏 For everyone
 
-Contact your government representatives and ask them to sign [this joint statement](https://www.hongkongwatch.org/all-posts/2020/5/25/write-to-your-mp-ask-them-to-sign-the-joint-international-parliamentary-letter-on-hong-kong) led by Led by the former Governor of Hong Kong, Lord Patten, and the former UK Foreign Secretary, Sir Malcolm Rifkind, expressing "grave concern" over the "unilateral introduction of national security legislation in Hong Kong."
+Contact your government representatives and ask them to sign [this joint statement](https://www.hongkongwatch.org/all-posts/2020/5/25/write-to-your-mp-ask-them-to-sign-the-joint-international-parliamentary-letter-on-hong-kong) led by the former Governor of Hong Kong, Lord Patten, and the former UK Foreign Secretary, Sir Malcolm Rifkind, expressing "grave concern" over the "unilateral introduction of national security legislation in Hong Kong."
 
 [More information about the 200+ signatories](https://www.hongkongwatch.org/all-posts/2020/5/23/patten-led-group-of-198-parliamentarians-from-23-countries-decry-flagrant-breach-of-the-sino-british-joint-declaration).
 
