@@ -69,13 +69,9 @@ Contact your government representatives and ask them to sign [this joint stateme
 Call your representatives (find their number on [callmycongress.com](https://www.callmycongress.com/)):
 
 - Tell them you are very concerned about the situation in Hong Kong.
+- Ask them to support [S.3798 - A bill to impose sanctions with respect to foreign persons involved in the erosion of certain obligations of China with respect to Hong Kong, and for other purposes.](https://www.congress.gov/bill/116th-congress/senate-bill/3798)
+- Ask them to support [S.2758 - Hong Kong Be Water Act](https://www.congress.gov/bill/116th-congress/senate-bill/2758)
 - Ask them to support the call to suspend future sales of munitions and crowd control equipment to the Hong Kong police.
-
-References:
-
-- [Pelosi Statement on Withdrawal of Hong Kong Extradition Bill](https://www.speaker.gov/newsroom/9419), Sept 4, 2019
-- [Pelosi Statement in Support of Hong Kong Protestors](https://www.speaker.gov/newsroom/8519-3/), August 6, 2019
-- [Rubio Comments on Withdrawal of Hong Kong Extradition Bill](https://www.rubio.senate.gov/public/index.cfm/2019/9/rubio-comments-on-withdrawal-of-hong-kong-extradition-bill), Sept 4, 2019
 
 ## 🇨🇦 For Canadian residents/citizens
 
