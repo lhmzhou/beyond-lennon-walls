@@ -65,7 +65,7 @@ Contact your government representatives and ask them to sign [this joint stateme
 
 [Donate to the Yellow Dandelion Foundation](https://www.yellowdandelionhk.org/donation), a California-based non-profit that provides supplies for protesters in Hong Kong.
 
-Call your representatives (find their number on [callmycongress.com](https://www.callmycongress.com/)):
+Call your representatives (find their number on [GovTrack](https://www.govtrack.us/congress/members)):
 
 - Tell them you are very concerned about the situation in Hong Kong.
 - Ask them to support [S.3798 - A bill to impose sanctions with respect to foreign persons involved in the erosion of certain obligations of China with respect to Hong Kong, and for other purposes.](https://www.congress.gov/bill/116th-congress/senate-bill/3798)
