@@ -2,7 +2,7 @@
 
 Setting up a Lennon Wall or joining in a rally may be the most visible way to help the Hong Kong protests from abroad, but it isn't necessarily the best. Below are some other ideas on how to support the protest from afar.
 
-Last updated 26 May 2020. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
+Last updated 28 May 2020. Based on anonymous submissions. Maintained by Jason Li and Lokman Tsui.
 
 ---
 
@@ -74,11 +74,9 @@ Call your representatives (find their number on [GovTrack](https://www.govtrack.
 
 ## 🇨🇦 For Canadian residents/citizens
 
-Contact your current MP and MP candidates (find the former [here](https://www.ourcommons.ca/Parliamentarians/en/constituencies/FindMP)):
+Use the [Alliance Canada Hong Kong's online tool](https://alliancecanadahk.com/campaign-home/) to send a letter to your representatives requesting sanctions against involved officials, support for asylum seekeres, protection for Canadians, investigations into foreign influence and an export ban on military technology (see [Canada's Five Demands](https://alliancecanadahk.com/our-five-demands/)). 
 
-- Tell them you are very concerned about the situation in Hong Kong.
-- Ask them to introduce a motion in Parliament in support of the Hong Kong protests.
-- Ask them to introduce legislation similar to US's Hong Kong Human Rights and Democracy Act.
+Alternately, find the contact details for your current MPs [here](https://www.ourcommons.ca/Parliamentarians/en/constituencies/FindMP) and write your own letter of concern and support.
 
 ## 🇬🇧 For UK residents/citizens
 
