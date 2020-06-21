@@ -62,6 +62,8 @@ Dicas:
 - Seja sensível com amigos e família: por vezes o melhor é concordar em discordar.
 - Cuidado com [trolls](https://pt.wikipedia.org/wiki/Trol_(internet)): não perca demasiada energia tentando ganhar uma discussão online com alguém que não conhece, ainda para mais se o seu interlocutor for abusivo.
 
+Mais sobre isso pelo usuário do Reddit @vikingbiochemist: [acesse aqui](https://www.reddit.com/r/HongKong/comments/cwjzyg/dont_drown_the_signal_in_noise_unsolicited_advice)
+
 ---
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
