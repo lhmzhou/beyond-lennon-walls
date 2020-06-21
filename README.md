@@ -43,6 +43,7 @@ Pitch in for supplies that protect people during police operations:
 
 - [Trauma supplies for Hong Kong volunteer medics](https://www.gofundme.com/f/trauma-supplies-for-hong-kong-volunteer-medics)
 - [HK Protect 香港保護: 捐贈裝備送給前線](https://hkprotect.org/shop/%e4%bf%9d%e8%ad%b7%e8%a3%9d%e5%82%99/%e6%8d%90%e8%b4%88%e8%a3%9d%e5%82%99%e9%80%81%e7%b5%a6%e5%89%8d%e7%b7%9a/)
+- [Leon Hong's GoFundMe for Hong Kong Supplies](https://www.gofundme.com/f/g5zsk-hong-kong-supplies)
 
 ## 🧓🏻 Organize within your community
 
@@ -71,6 +72,7 @@ Call your representatives (find their number on [GovTrack](https://www.govtrack.
 - Ask them to support [S.3798 - A bill to impose sanctions with respect to foreign persons involved in the erosion of certain obligations of China with respect to Hong Kong, and for other purposes.](https://www.congress.gov/bill/116th-congress/senate-bill/3798)
 - Ask them to support [S.2758 - Hong Kong Be Water Act](https://www.congress.gov/bill/116th-congress/senate-bill/2758), which "directs the President to impose sanctions on, and freeze assets belonging to, individuals and entities responsible for suppression of freedoms in Hong Kong."
 - Ask them to support the call to suspend future sales of munitions and crowd control equipment to the Hong Kong police.
+- [Call on U.S. Campuses to Address the Needs of Their Students Affected by Hong Kong Police Force's Assault.](https://docs.google.com/forms/d/e/1FAIpQLScdYDue33cqSDnHIh0V0EU6Guov37eFRKmv93yzIDLJetVJXw/viewform)
 
 ## 🇨🇦 For Canadian residents/citizens
 
